@@ -40,17 +40,8 @@ Credit will be assigned as follows:
 - homework (70%)  
 - final project (30%)  
 
-Homework assignments will be automatically graded through GitHub Classroom. You are free to resubmit your work as many times as you like before the deadline.  
+Homework assignments will be automatically graded through GitHub Classroom. A rubric is included with each assignment. You are free to resubmit your work as many times as you like before the deadline.  
 
-<!--
-### Grading scale
-Grades for each assignment and project will follow a four point scale:
-- 1 -- some work, but the assignment/project is mostly incomplete  
-- 2 -- the assignment/project is mostly complete, but with major errors  
-- 3 -- the assignment/project is complete, with moderate errors  
-- 4 -- the assignment/project is complete, with only minor errors  
+You are encouraged to collaborate with one another on homework assignments and projects. If you work in a team on an assignment, please add a comment in your code listing your teammates. Similarly, if you receive help from another student on a specific problem or part of an assignment, please add a comment to acknowledge this in that part of the code.  
 
-More information on midterm and final projects will be available as we progress through the quarter.
-
-I encourage you to freely collaborate with other students on homework and projects.
--->
+If you get stuck on a problem, to get the most out of the course, it's worthwhile to take the time to think it through carefully and attempt to work it out individually/within your group. If you're still stuck, feel free to reach out to other students or instructors with questions.
