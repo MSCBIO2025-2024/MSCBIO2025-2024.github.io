@@ -13,10 +13,10 @@ Information for the course, including homework assignments and information about
 
 ## Lectures
 
-<!--
-**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)]
+**Lecture 01** -- Introduction to MSCBIO 2025 and Bash [[slides](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.ipynb)]
 
-**Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-1)]
+<!--
+**Lecture 02** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-1)]
 
 **Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/1zM-F4qcHrYZzNC34wqALjIr9JuTbAhrP3a4bLs02PuE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-2)]
 
