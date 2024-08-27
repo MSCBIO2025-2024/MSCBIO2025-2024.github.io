@@ -15,9 +15,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 01** -- Introduction to MSCBIO 2025 and Bash [[slides](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.ipynb)]
 
-<!--
-**Lecture 02** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-1)]
+**Lecture 02** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.ipynb)]  -->
 
+<!--
 **Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/1zM-F4qcHrYZzNC34wqALjIr9JuTbAhrP3a4bLs02PuE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-2)]
 
 **Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1LC7I4bua6qyRSEvKwDmXMh9Dl1NIvOVjf1TAS_6L8mY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-3)]
