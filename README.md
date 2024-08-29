@@ -69,9 +69,9 @@ Information for the course, including homework assignments and information about
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom.
 
-<!--
-**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/rXJKfKSU)]  
+**Homework 01** -- Bash introduction [[assignment](https://classroom.github.com/a/O8vqF3DV)]  
 
+<!--
 **Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/TOBmqtFK)]  
 
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/3JBrOeix)]  
