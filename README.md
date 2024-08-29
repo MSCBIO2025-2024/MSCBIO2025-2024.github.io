@@ -15,12 +15,15 @@ Information for the course, including homework assignments and information about
 
 **Lecture 01** -- Introduction to MSCBIO 2025 and Bash [[slides](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.ipynb)]
 
-**Lecture 02** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.ipynb)]  -->
+**Lecture 02** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.ipynb)]
 
 <!--
-**Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/1zM-F4qcHrYZzNC34wqALjIr9JuTbAhrP3a4bLs02PuE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-2)]
+**Lecture 03** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-03-python.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-03-python.ipynb)]
 
-**Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1LC7I4bua6qyRSEvKwDmXMh9Dl1NIvOVjf1TAS_6L8mY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-3)]
+**Lecture 04** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.ipynb)]
+
+**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)]
+
 
 **Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-4)]
 
