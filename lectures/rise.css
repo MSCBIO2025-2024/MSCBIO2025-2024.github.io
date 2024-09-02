@@ -1,0 +1,30 @@
+/* Big code text */
+:root {
+  --jp-code-font-size: 26px !important;
+  --jp-cell-prompt-width: 100px !important;
+}
+
+.rise-enabled .jp-InputPrompt {
+  font-size: 26px !important;
+}
+
+.rise-enabled .jp-InputArea pre {
+  font-size: 26px !important;
+}
+
+.rise-enabled .jp-OutputArea pre {
+  font-size: 26px !important;
+}
+
+/* some settings below from https://vladiliescu.net/wiki/jupyter/ */
+
+/* set the font size/margins for all headings */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6  {
+  font-family: Avenir Next Medium !important;
+  margin-top: 170px !important;
+}
+
+/* you know what, just set this everywhere */
+.slides .rendered_html {
+  font-family: Avenir Next Condensed
+}

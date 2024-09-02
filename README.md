@@ -13,57 +13,29 @@ Information for the course, including homework assignments and information about
 
 ## Lectures
 
-**Lecture 01** -- Introduction to MSCBIO 2025 and Bash [[slides](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.ipynb)]
+**Lecture 01** -- Introduction to MSCBIO 2025 and Bash [[slides](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-01-bash.ipynb)] <!-- 08/27 -->
 
-**Lecture 02** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.ipynb)]
+**Lecture 02** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-02-bash2.ipynb)] <!-- 08/29 -->
 
-**Lecture 03** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-03-python.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-03-python.ipynb)] -->
+**Lecture 03** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-03-python.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-03-python.ipynb)] <!-- 09/03 -->
 
-<!--
+**Lecture 04** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.ipynb)] 09/05 -->
 
-**Lecture 04** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.ipynb)]
+<!-- 
+**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)] 09/10
 
-**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)]
+**Lecture 06** -- Function fitting [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.ipynb)] 09/12
 
+**Lecture 07** -- Systems biology [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-07-systems.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-07-systems.ipynb)] 09/17
 
-**Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-4)]
+**Lecture 08** -- Sequence analysis I [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] 09/19
 
-**Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/13XYPYKhVoVPOLHLJ_m1uU_4Mbw6gCpJssPmUGjE9jkk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-5)]  
+**Lecture 09** -- Sequence analysis II [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.ipynb)] 09/24
 
-**Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-6)]
+**Lecture 10** -- Tabular data with Pandas [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] 09/26
 
-**Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-7)]
-
-**Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-8)]
-
-**Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-9)]  
-
-**Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-10)]
-
-**Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-11)]
-
-**Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/1Bq0s8SzeyrNy10290mp6neGjcZe8keoOSXScgbpO-YQ/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-12)]
-
-**Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/10qzW4JEiY8aPTJXIo6GpMRfDz6T7SX1blD1UjKtpXso/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-13)]
-
-**Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1U3mbTdfIHckrnUmm4WYfdRgOqZKf6_mRCydyMAtK9qU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-14)]
-
-**Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/17tnKjbaeyEJLcUoXCB4zYcHWof6GYj5QpCkDtKczaa0/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-15)]
-
-**Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1NSIa_IVbNNVsSHzDur2FYMK_q1yWKqTudWonzVLHNmo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-16)]
-
-**Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/13dK-lU-Q6_LtLlmFO8NWjmnP23LOeLAOLsH1FhUV6ac/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-17)]
-
-**Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/16QlQtkRKXLzQ2GuBn9oJ8Urm1MFTT-jkMv2FDbKMueg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-18)]
-
-**Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1PzxL0LCTNXXFCMnnfX2R0o9VaR8WUtlrk9n2c-fCQGA/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-19)]
-
-**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/17GuHPWPfNWidP62eAhN2zjvCrqjA774suTqcUI2sLoE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-20)]
-
-**Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1BTXHlcyWAmslOX0YmIQF7qpdprUutIO0D7n8tu-CBJw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-21)]
-
-**Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1AcBtp9fh8f-RcV20Yf1uKTpeMITAYFGcMx-cKfggjNo/edit?usp=sharing)]
 -->
+
 
 ## Homework
 
