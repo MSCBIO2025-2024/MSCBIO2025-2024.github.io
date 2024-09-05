@@ -19,10 +19,12 @@ Information for the course, including homework assignments and information about
 
 **Lecture 03** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-03-python.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-03-python.ipynb)] <!-- 09/03 -->
 
-**Lecture 04** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.ipynb)] 09/05 -->
+**Lecture 04** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.ipynb)] <!-- 09/05 -->
 
-<!-- 
-**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)] 09/10
+ 
+**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)] 09/10
+
+<!--
 
 **Lecture 06** -- Function fitting [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.ipynb)] 09/12
 
@@ -43,9 +45,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 01** -- Bash introduction [[assignment](https://classroom.github.com/a/O8vqF3DV)]  
 
-<!--
-**Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/TOBmqtFK)]  
+**Homework 02** -- Plots in Python [[assignment](https://classroom.github.com/a/gW2l8j1F)]  
 
+<!--
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/3JBrOeix)]  
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/qImOip4Q)]  
