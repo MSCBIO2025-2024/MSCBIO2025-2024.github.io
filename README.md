@@ -21,13 +21,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 04** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-04-plot.ipynb)] <!-- 09/05 -->
 
- 
-**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)] 09/10
+**Lecture 05** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-05-numpy.ipynb)] <!-- 09/10 -->
+
+**Lecture 06** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.ipynb)] 09/12 -->
 
 <!--
-
-**Lecture 06** -- Function fitting [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.ipynb)] 09/12
-
 **Lecture 07** -- Systems biology [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-07-systems.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-07-systems.ipynb)] 09/17
 
 **Lecture 08** -- Sequence analysis I [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] 09/19
