@@ -5,18 +5,19 @@
 **Topic 1: Course overview and introduction to Python**  
 - Introduction to MSCBIO 2025  
 - Python, Jupyter, and GitHub  
+- Data visualization
+
+**Topic 2: Simple modeling and data processing**  
+- Function fitting  
+- Systems biology modeling  
+- Sequence analysis  
+- Tabular data with pandas  
+
+**Topic 3: Protein structure**  
+- Structure analysis with ProDy  
+- Molecular dynamics  
 
 <!--
-**Topic 2: Numerical integration of integrals**  
-- Riemann sum and trapezoidal rule  
-- Simpson's rule  
-- Error estimation  
-
-**Topic 3: Numerical integration of differential equations**  
-- Euler's method  
-- Runge-Kutta method  
-- Leapfrog and other approaches  
-
 **Topic 4: Probability and random numbers**  
 - Introduction to probability and random numbers  
 - Computing with probability distributions  
