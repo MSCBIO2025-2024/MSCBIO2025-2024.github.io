@@ -47,9 +47,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 02** -- Plots in Python [[assignment](https://classroom.github.com/a/gW2l8j1F)]  
 
-<!--
-**Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/3JBrOeix)]  
+**Homework 03** -- Function fitting [[assignment](https://classroom.github.com/a/iQEf8KZw)]  
 
+<!--
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/qImOip4Q)]  
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/f9sJ5-et)]  
