@@ -25,17 +25,16 @@ Information for the course, including homework assignments and information about
 
 **Lecture 06** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)]  [[slides](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.ipynb)] <!-- 09/12 -->
 
+**Lecture 07** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[recording](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d95c2bea-0d24-442a-9c52-b1ee0150ab99)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)] <!--  09/17 -->
 
-**Lecture 07** -- Systems biology modeling <!-- [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-07-systems.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-07-systems.ipynb)] 09/17 -->
+**Lecture 08** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] 09/19
 
 <!--
-**Lecture 08** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] 09/19
+**Lecture 09** -- Sequence analysis II [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/14%20-%20Sequence%20motif%20analysis%20using%20Bio.motifs.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.ipynb)] 09/24
 
-**Lecture 09** -- Sequence analysis II [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.ipynb)] 09/24
+**Lecture 10** -- Principles of data analysis and pandas [[reading](https://github.com/jtleek/datasharing)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] 09/26
 
-**Lecture 10** -- Tabular data with Pandas [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] 09/26
-
-**Lecture 11** -- Tabular data with Pandas [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01
+**Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01
 -->
 
 
