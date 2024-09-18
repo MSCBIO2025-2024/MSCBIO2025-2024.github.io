@@ -27,7 +27,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 07** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[recording](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d95c2bea-0d24-442a-9c52-b1ee0150ab99)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)] <!--  09/17 -->
 
-**Lecture 08** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] 09/19
+**Lecture 08** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] 09/19 -->
 
 <!--
 **Lecture 09** -- Sequence analysis II [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/14%20-%20Sequence%20motif%20analysis%20using%20Bio.motifs.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.ipynb)] 09/24
