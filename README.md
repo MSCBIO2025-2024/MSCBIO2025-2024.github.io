@@ -25,7 +25,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 06** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)]  [[slides](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-06-fitting.ipynb)] <!-- 09/12 -->
 
-**Lecture 07** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[recording](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d95c2bea-0d24-442a-9c52-b1ee0150ab99)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)] <!--  09/17 -->
+**Lecture 07** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[recording 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d95c2bea-0d24-442a-9c52-b1ee0150ab99)] [[recording 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4882eee3-c754-44c3-b3ce-b1f00108addb)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)] <!--  09/17 -->
 
 **Lecture 08** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-08-sequence.ipynb)] <!-- 09/19 -->
 
