@@ -48,9 +48,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 03** -- Function fitting [[assignment](https://classroom.github.com/a/iQEf8KZw)]  
 
-<!--
-**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/qImOip4Q)]  
+**Homework 04** -- Systems biology modeling [[assignment](https://classroom.github.com/a/8e2DkUpP)]  
 
+<!--
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/f9sJ5-et)]  
 
 **Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/4Mxv4-H0)]  
