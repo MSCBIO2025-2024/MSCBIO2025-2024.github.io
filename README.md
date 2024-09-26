@@ -31,7 +31,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 09** -- Sequence analysis II [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/14%20-%20Sequence%20motif%20analysis%20using%20Bio.motifs.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-09-sequence2.ipynb)] <!-- 09/24 -->
 
-**Lecture 10** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] --> <!-- 09/26 -->
+**Lecture 10** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)]  [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] <!-- 09/26 -->
 
 <!--
 **Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01
