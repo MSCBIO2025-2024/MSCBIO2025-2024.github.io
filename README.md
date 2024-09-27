@@ -33,9 +33,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 10** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)]  [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] <!-- 09/26 -->
 
-<!--
-**Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01
--->
+**Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01 -->
 
 
 ## Homework
@@ -50,9 +48,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 04** -- Systems biology modeling [[assignment](https://classroom.github.com/a/8e2DkUpP)]  
 
-<!--
-**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/f9sJ5-et)]  
+**Homework 05** -- Sequence processing [[assignment](https://classroom.github.com/a/f0ZY5SdB)]  
 
+<!--
 **Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/4Mxv4-H0)]  
 
 **Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/YXDVOLeu)]  
