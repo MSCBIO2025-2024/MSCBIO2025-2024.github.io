@@ -7484,9 +7484,9 @@ main {
 <h1 id="More-tabular-data-with-pandas">More tabular data with <code>pandas</code><a class="anchor-link" href="#More-tabular-data-with-pandas">¶</a></h1><p><a href="?print-pdf">print view</a><br/>
 <a href="lecture-11-pandas2.ipynb">notebook</a></p>
 <ul>
-<li>List comprehensions</li>
-<li>Phylogenetic trees</li>
-<li>Sequence motifs</li>
+<li>Accessing data in <code>pandas</code></li>
+<li>Data processing and rearrangement</li>
+<li>Combining data frames</li>
 </ul>
 </div>
 </div>
@@ -8127,7 +8127,7 @@ This returns the changed value; it does not mutate in place</br></p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Creating-New-Columns">Creating New Columns<a class="anchor-link" href="#Creating-New-Columns">¶</a></h1>
+<h2 id="Creating-new-columns">Creating new columns<a class="anchor-link" href="#Creating-new-columns">¶</a></h2>
 </div>
 </div>
 </div>
@@ -8141,7 +8141,7 @@ This returns the changed value; it does not mutate in place</br></p>
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># setting errors='coerce' below will result in NaN values for invalid input</span>
 <span class="n">data</span><span class="p">[</span><span class="s1">'Length of Stay'</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_numeric</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s1">'Length of Stay'</span><span class="p">],</span> <span class="n">errors</span><span class="o">=</span><span class="s1">'coerce'</span><span class="p">)</span>
-<span class="n">data</span><span class="p">[</span><span class="s1">'Length of Stay'</span><span class="p">]</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="mi">120</span><span class="p">,</span><span class="n">inplace</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">data</span><span class="p">[</span><span class="s1">'Length of Stay'</span><span class="p">]</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s1">'Length of Stay'</span><span class="p">]</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="mi">120</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
