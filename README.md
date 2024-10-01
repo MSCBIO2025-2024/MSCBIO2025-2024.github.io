@@ -35,6 +35,18 @@ Information for the course, including homework assignments and information about
 
 **Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01 -->
 
+**Lecture 12** -- Protein dynamics with ProDy <!-- [[reading]()] --> <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-12-prody.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-12-prody.ipynb)] 10/03 
+
+<!-- 
+**Lecture 13** -- More protein dynamics [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-13-prody2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-13-prody2.ipynb)]
+
+**Lecture 14** -- Molecular dynamics analysis I [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-14-md.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-14-md.ipynb)]
+
+**Lecture 15** -- Molecular dynamics analysis II [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.ipynb)]
+
+**Lecture 16** -- Clustering [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.ipynb)]
+-->
+
 
 ## Homework
 
@@ -51,12 +63,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 05** -- Sequence processing [[assignment](https://classroom.github.com/a/f0ZY5SdB)]  
 
 <!--
-**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/4Mxv4-H0)]  
-
-**Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/YXDVOLeu)]  
-
-**Homework 8** -- Inference for the Ising model [[assignment](https://classroom.github.com/a/tBSDOkj7)]  
+**Homework 06** -- Data analysis with pandas [[assignment](https://classroom.github.com/a/4UvZ1WOs)]  
 -->
+
 
 ## Past versions of the course
 
