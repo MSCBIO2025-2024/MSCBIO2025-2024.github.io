@@ -33,7 +33,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 10** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)]  [[slides](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-10-pandas.ipynb)] <!-- 09/26 -->
 
-**Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] 10/01 -->
+**Lecture 11** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-11-pandas2.ipynb)] <!-- 10/01 -->
 
 **Lecture 12** -- Protein dynamics with ProDy <!-- [[reading]()] --> <!-- [[slides](https://mscbio2025-2024.github.io/lectures/lecture-12-prody.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-12-prody.ipynb)] 10/03 
 
