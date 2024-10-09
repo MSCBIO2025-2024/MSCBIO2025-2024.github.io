@@ -37,11 +37,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 12** -- Protein dynamics with ProDy [[slides](https://mscbio2025-2024.github.io/lectures/lecture-12-prody.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-12-prody.ipynb)] <!-- 10/03 -->
 
+**Lecture 13** -- More protein dynamics [[slides](https://mscbio2025-2024.github.io/lectures/lecture-13-prody2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-13-prody2.ipynb)] <!-- 10/08 -->
+
+**Lecture 14** -- Molecular dynamics analysis I [[slides](https://mscbio2025-2024.github.io/lectures/lecture-14-md.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-14-md.ipynb)] <!-- 10/10 -->
+
 <!-- 
-**Lecture 13** -- More protein dynamics [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-13-prody2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-13-prody2.ipynb)]
-
-**Lecture 14** -- Molecular dynamics analysis I [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-14-md.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-14-md.ipynb)]
-
 **Lecture 15** -- Molecular dynamics analysis II [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.ipynb)]
 
 **Lecture 16** -- Clustering [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.ipynb)]
