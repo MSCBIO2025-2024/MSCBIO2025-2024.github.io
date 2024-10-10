@@ -41,9 +41,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 14** -- Molecular dynamics analysis I [[slides](https://mscbio2025-2024.github.io/lectures/lecture-14-md.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-14-md.ipynb)] <!-- 10/10 -->
 
-<!-- 
-**Lecture 15** -- Molecular dynamics analysis II [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.ipynb)]
+**Lecture 15** -- Molecular dynamics analysis II [[slides](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.ipynb)] <!-- 10/15 -->
 
+<!-- 
 **Lecture 16** -- Clustering [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.ipynb)]
 -->
 
@@ -63,6 +63,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 05** -- Sequence processing [[assignment](https://classroom.github.com/a/f0ZY5SdB)]  
 
 **Homework 06** -- Data analysis with pandas [[assignment](https://classroom.github.com/a/4UvZ1WOs)]  
+
+**Homework 07** -- Protein dynamics [[assignment](https://classroom.github.com/a/lnOvRKgq)]  
 
 
 ## Past versions of the course
