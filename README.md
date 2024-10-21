@@ -66,6 +66,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 07** -- Protein dynamics [[assignment](https://classroom.github.com/a/lnOvRKgq)]  
 
+**Homework 08** -- Molecular dynamics [[assignment](https://classroom.github.com/a/5UgZtuEk)]  
+
 
 ## Past versions of the course
 
