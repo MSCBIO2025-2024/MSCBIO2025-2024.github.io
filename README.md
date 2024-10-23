@@ -43,9 +43,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 15** -- Molecular dynamics analysis II [[slides](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-15-md2.ipynb)] <!-- 10/15 -->
 
-<!-- 
-**Lecture 16** -- Clustering [[reading]()] [[slides](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.ipynb)]
--->
+**Lecture 16** -- Clustering [[slides](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.ipynb)]
 
 
 ## Homework
