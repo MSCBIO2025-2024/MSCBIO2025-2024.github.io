@@ -45,6 +45,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 16** -- Clustering [[slides](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture-16-clustering.ipynb)]
 
+**Lecture 17** -- Dimensionality Reduction - 1 [[slides](https://mscbio2025-2024.github.io/lectures/lecture17-dimred-1.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture17-dimred-1.ipynb)]
 
 ## Homework
 
