@@ -70,7 +70,6 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 08** -- Molecular dynamics [[assignment](https://classroom.github.com/a/5UgZtuEk)]  
 
 **Homework 09** -- Dimensionality reduction [[assignment](https://mscbio2025-2024.github.io/files/assignment9/Assignment_9_dimred.ipynb)]  [[Single-cell datafile (https://mscbio2025-2024.github.io/files/assignment9/5k_pbmc_protein_v3_nextgem_filtered_feature_bc_matrix.h5)][Answer template(https://mscbio2025-2024.github.io/files/assignment9/assignment9_template.txt)][[Figure to analyze(https://mscbio2025-2024.github.io/files/assignment9/dimensionality_reduction_comparison.png)]]
-files/assignment9
 
 
 ## Past versions of the course
