@@ -49,6 +49,8 @@ Information for the course, including homework assignments and information about
 
 **Lecture 18** -- Dimensionality Reduction - II [[slides](https://mscbio2025-2024.github.io/lectures/lecture18-dimred-2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/lecture18-dimred-2.ipynb)]
 
+**Lecture 19** -- Machine learning - I [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-19-MachineLearning-I.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-19-MachineLearning-I.ipynb)]
+
 ## Homework
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom.
