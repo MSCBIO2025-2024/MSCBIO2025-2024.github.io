@@ -51,7 +51,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 19** -- Machine learning - I [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-19-MachineLearning-I.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-19-MachineLearning-I.ipynb)]
 
-**Lecture 20** -- Machine learning - I [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-20-MachineLearning-II.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-20-MachineLearning-II.ipynb)]
+**Lecture 20** -- Machine learning - II [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-20-MachineLearning-II.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-20-MachineLearning-II.ipynb)]
 
 ## Homework
 
