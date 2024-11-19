@@ -53,6 +53,8 @@ Information for the course, including homework assignments and information about
 
 **Lecture 20** -- Machine learning - II [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-20-MachineLearning-II.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-20-MachineLearning-II.ipynb)]
 
+**Lecture 21** -- Deep learning - I [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-21-DeepLearning-I.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-21-DeepLearning-I.ipynb)]
+
 ## Homework
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom.
