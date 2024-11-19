@@ -7440,7 +7440,7 @@ main {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Deep-Learning-and-PyTorch">Deep Learning and PyTorch<a class="anchor-link" href="#Deep-Learning-and-PyTorch">¶</a></h1><h2 id="11/19/2024">11/19/2024<a class="anchor-link" href="#11/19/2024">¶</a></h2><p><a href="?print-pdf">print view</a></p>
+<h1 id="Deep-Learning-I">Deep Learning-I<a class="anchor-link" href="#Deep-Learning-I">¶</a></h1><h2 id="11/19/2024">11/19/2024<a class="anchor-link" href="#11/19/2024">¶</a></h2><p><a href="?print-pdf">print view</a></p>
 <p><a href="./Lecture21-DeepLearning-I.ipynb">notebook</a></p>
 </div>
 </div>
@@ -7475,7 +7475,7 @@ main {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Perceptron">Perceptron<a class="anchor-link" href="#Perceptron">¶</a></h1><center><img alt="No description has been provided for this image" src="./files/perceptron.png" width="400"/></center>
+<h1 id="Perceptron">Perceptron<a class="anchor-link" href="#Perceptron">¶</a></h1><center><img alt="No description has been provided for this image" src="../files/perceptron.png" width="400"/></center>
 $$output = \begin{cases} 0 \text{ if } w\cdot x + b \le 0 \\ 1 \text{ if } w\cdot x + b &gt; 0 \end{cases}$$
 </div>
 </div>
@@ -7488,7 +7488,7 @@ $$output = \begin{cases} 0 \text{ if } w\cdot x + b \le 0 \\ 1 \text{ if } w\cdo
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h1 id="Perceptron">Perceptron<a class="anchor-link" href="#Perceptron">¶</a></h1><p>Consider the following perceptron:</p>
-<center><img alt="No description has been provided for this image" src="./files/example.png" width="300"/></center>
+<center><img alt="No description has been provided for this image" src="../files/example.png" width="300"/></center>
 <p>If $x$ takes on only binary values, what are the possible outputs?</p>
 </div>
 </div>
@@ -7517,7 +7517,7 @@ $$output = \begin{cases} 0 \text{ if } w\cdot x + b \le 0 \\ 1 \text{ if } w\cdo
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Neurons">Neurons<a class="anchor-link" href="#Neurons">¶</a></h1><p><img alt="No description has been provided for this image" src="./files/example.png" width="300"/></p>
+<h1 id="Neurons">Neurons<a class="anchor-link" href="#Neurons">¶</a></h1><p><img alt="No description has been provided for this image" src="../files/example.png" width="300"/></p>
 <p>Instead of a <em>binary</em> output, we set the output to the result of an <strong>activation function</strong> $\sigma$</p>
 $$output = \sigma(w\cdot x + b)$$
 </div>
@@ -7688,7 +7688,7 @@ $$output = \sigma(w\cdot x + b)$$
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Networks">Networks<a class="anchor-link" href="#Networks">¶</a></h1><img alt="No description has been provided for this image" src="./files/networks.png"/>
+<h1 id="Networks">Networks<a class="anchor-link" href="#Networks">¶</a></h1><img alt="No description has been provided for this image" src="../files/networks.png"/>
 <p>Terminology alert: networks of neurons are sometimes called <em>multilayer perceptrons</em>, despite not using the step function.</p>
 </div>
 </div>
@@ -7717,7 +7717,7 @@ $$output = \sigma(w\cdot x + b)$$
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Networks">Networks<a class="anchor-link" href="#Networks">¶</a></h1><p><img alt="No description has been provided for this image" src="./files/dl0.png" style="float:right"/> The number of input neurons corresponds to the number of features.</p>
+<h1 id="Networks">Networks<a class="anchor-link" href="#Networks">¶</a></h1><p><img alt="No description has been provided for this image" src="../files/dl0.png" style="float:right"/> The number of input neurons corresponds to the number of features.</p>
 <p>The number of output neurons corresponds to the number of label classes.  For binary classification, it is common to have two output nodes.</p>
 <p>Layers are typically <em>fully connected</em>.</p>
 </div>
@@ -7745,7 +7745,7 @@ $$output = \sigma(w\cdot x + b)$$
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Stochastic-Gradient-Descent">Stochastic Gradient Descent<a class="anchor-link" href="#Stochastic-Gradient-Descent">¶</a></h1><img alt="No description has been provided for this image" src="./files//valley_with_ball.png" style="float:right" width="300"/>
+<h1 id="Stochastic-Gradient-Descent">Stochastic Gradient Descent<a class="anchor-link" href="#Stochastic-Gradient-Descent">¶</a></h1><img alt="No description has been provided for this image" src="../files//valley_with_ball.png" style="float:right" width="300"/>
 <p>Randomly select $m$ training examples $X_j$ and compute the gradient of the loss function ($L$).  Update weights and biases with a given <em>learning rate</em>  $\eta$.
 $$ w_k' = w_k-\frac{\eta}{m}\sum_j^m 
 \frac{\partial L_{X_j}}{\partial w_k}$$
@@ -7815,7 +7815,7 @@ $$\frac{\partial L}{\partial a^l} \cdot \frac{\partial a^l}{\partial z^l} \cdot 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Deep-Learning">Deep Learning<a class="anchor-link" href="#Deep-Learning">¶</a></h1><center><img alt="No description has been provided for this image" src="./files/dl1.png"/></center>
+<h1 id="Deep-Learning">Deep Learning<a class="anchor-link" href="#Deep-Learning">¶</a></h1><center><img alt="No description has been provided for this image" src="../files/dl1.png"/></center>
 <p>A deep network is not more powerful (recall can approximate any function with a single layer), but may be more concise - can approximate some functions with many fewer nodes.</p>
 </div>
 </div>
@@ -7827,7 +7827,7 @@ $$\frac{\partial L}{\partial a^l} \cdot \frac{\partial a^l}{\partial z^l} \cdot 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Convolutional-Neural-Nets">Convolutional Neural Nets<a class="anchor-link" href="#Convolutional-Neural-Nets">¶</a></h1><center><img alt="No description has been provided for this image" src="./files/nnperformance.png"/></center>
+<h1 id="Convolutional-Neural-Nets">Convolutional Neural Nets<a class="anchor-link" href="#Convolutional-Neural-Nets">¶</a></h1><center><img alt="No description has been provided for this image" src="../files/nnperformance.png"/></center>
 </div>
 </div>
 </div>
@@ -7875,7 +7875,7 @@ $$\frac{\partial L}{\partial a^l} \cdot \frac{\partial a^l}{\partial z^l} \cdot 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Convolutional-Layers">Convolutional Layers<a class="anchor-link" href="#Convolutional-Layers">¶</a></h1><p><img alt="No description has been provided for this image" src="./files/conv.png" style="float:right" width="400"/> A single kernel is applied across the input.  For each output feature map there is a single set of weights.</p>
+<h1 id="Convolutional-Layers">Convolutional Layers<a class="anchor-link" href="#Convolutional-Layers">¶</a></h1><p><img alt="No description has been provided for this image" src="../files/conv.png" style="float:right" width="400"/> A single kernel is applied across the input.  For each output feature map there is a single set of weights.</p>
 </div>
 </div>
 </div>
@@ -7887,7 +7887,7 @@ $$\frac{\partial L}{\partial a^l} \cdot \frac{\partial a^l}{\partial z^l} \cdot 
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h1 id="Convolutional-Layers">Convolutional Layers<a class="anchor-link" href="#Convolutional-Layers">¶</a></h1><p>For images, each pixel is an input feature.  Each hidden layer is a set of feature maps.</p>
-<center><img alt="No description has been provided for this image" src="./files/convLayers.png"/></center>
+<center><img alt="No description has been provided for this image" src="../files/convLayers.png"/></center>
 </div>
 </div>
 </div>
@@ -7904,7 +7904,7 @@ $$\frac{\partial L}{\partial a^l} \cdot \frac{\partial a^l}{\partial z^l} \cdot 
 <li>fewer parameters to fit</li>
 <li>less sensitive to small changes (MAX)</li>
 </ul>
-<center><img alt="No description has been provided for this image" src="./files/pooling.png"/></center>
+<center><img alt="No description has been provided for this image" src="../files/pooling.png"/></center>
 </div>
 </div>
 </div>
