@@ -55,7 +55,7 @@ Information for the course, including homework assignments and information about
 
 **Lecture 21** -- Deep learning - I [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-21-DeepLearning-I-v2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-21-DeepLearning-I-v2.ipynb)]
 
-**Lecture 22** -- Deep learning - I [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-22-DeepLearning-II-v2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-22-DeepLearning-II-v2.ipynb)]
+**Lecture 22** -- Deep learning - II [[slides](https://mscbio2025-2024.github.io/lectures/Lecture-22-DeepLearning-II-v2.slides.html)] [[notebook](https://mscbio2025-2024.github.io/lectures/Lecture-22-DeepLearning-II-v2.ipynb)]
 
 ## Homework
 
