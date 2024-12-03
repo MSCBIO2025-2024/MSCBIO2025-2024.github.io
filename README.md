@@ -83,6 +83,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 10** -- Machine Learning [[assignment](https://mscbio2025-2024.github.io/files/assignment10/Assignment_10.ipynb)][[Answer template](https://mscbio2025-2024.github.io/files/assignment10/assignment10_template.txt)]
 
+**Homework 11** -- Deep Learning [[assignment](https://mscbio2025-2024.github.io/files/assignment11/Assignment_11.ipynb)]
+
 ## Past versions of the course
 
 The materials here are based on previous versions of the course taught by [David Koes](https://bits.csb.pitt.edu/) and friends. 
